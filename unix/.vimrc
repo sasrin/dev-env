@@ -23,4 +23,4 @@ match longer_lines /\%>80v.\+/
 
 " Visually highlight lines ending with extra white space characters
 highlight extra_whitespace_ending ctermbg=red ctermfg=white guibg=#592929
-match extra_whitespace_ending /\s\+$/
+2match extra_whitespace_ending /\s\+$/
