@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="default_size_rows" mtime="1471211272" type="int" value="39"/>
+	<entry name="default_size_columns" mtime="1471211272" type="int" value="87"/>
+	<entry name="use_custom_default_size" mtime="1471211272" type="bool" value="true"/>
+	<entry name="scrollback_lines" mtime="1462633870" type="int" value="512"/>
+	<entry name="bold_color_same_as_fg" mtime="1471211272" type="bool" value="false"/>
+	<entry name="use_theme_colors" mtime="1471211272" type="bool" value="false"/>
+	<entry name="font" mtime="1471211272" type="string">
+		<stringvalue>Monaco 14</stringvalue>
+	</entry>
+	<entry name="use_system_font" mtime="1471211272" type="bool" value="false"/>
+	<entry name="palette" mtime="1471211272" type="string">
+		<stringvalue>#000000000000:#CDCD00000000:#0000CDCD0000:#CDCDCDCD0000:#00000000CDCD:#CDCD0000CDCD:#0000CDCDCDCD:#FAFAEBEBD7D7:#404040404040:#FFFF00000000:#0000FFFF0000:#FFFFFFFF0000:#00000000FFFF:#FFFF0000FFFF:#0000FFFFFFFF:#FFFFFFFFFFFF</stringvalue>
+	</entry>
+	<entry name="alternate_screen_scroll" mtime="1471211272" type="bool" value="true"/>
+	<entry name="background_color" mtime="1471211272" type="string">
+		<stringvalue>#464676764343</stringvalue>
+	</entry>
+	<entry name="visible_name" mtime="1471211272" type="string">
+		<stringvalue>Default</stringvalue>
+	</entry>
+	<entry name="bold_color" mtime="1471211272" type="string">
+		<stringvalue>#EBEBAEAE4746</stringvalue>
+	</entry>
+	<entry name="foreground_color" mtime="1471211272" type="string">
+		<stringvalue>#FAFAF0EFA7A7</stringvalue>
+	</entry>
+</gconf>
